@@ -1,1 +1,1 @@
-vllm/vllm-openai:latest
+sqlchat/sqlchat:latest

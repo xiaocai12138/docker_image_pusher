@@ -1,1 +1,1 @@
-grafana/grafana:main-ubuntu
+vllm/vllm-openai:latest

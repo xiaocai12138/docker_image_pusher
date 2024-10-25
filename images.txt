@@ -1,1 +1,1 @@
-youngliving/dotnet:8.0-build
+postgis/postgis:16-3.5-alpine

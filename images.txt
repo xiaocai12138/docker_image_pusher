@@ -1,1 +1,1 @@
-fenglc/pgadmin4:python2.7-alpine
+dpage/pgadmin4:snapshot

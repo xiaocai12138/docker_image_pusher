@@ -1,1 +1,1 @@
-dpage/pgadmin4:snapshot
+nacos/nacos-server:v2.4.0

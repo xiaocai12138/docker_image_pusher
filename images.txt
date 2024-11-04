@@ -1,1 +1,1 @@
---platform linux/arm64/v8 postgis/postgis:14-3.5
+--platform linux/amd64 postgis/postgis:14-3.5

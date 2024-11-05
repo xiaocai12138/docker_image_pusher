@@ -1,2 +1,2 @@
---platform linux/arm64 nacos/nacos-server:v2.4.0
+--platform linux/arm64 dpage/pgadmin4:snapshot
 

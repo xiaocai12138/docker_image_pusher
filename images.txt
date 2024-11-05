@@ -1,2 +1,2 @@
---platform linux/arm64 kartoza/postgis:16-3.4
+--platform linux/arm64 nacos/nacos-server:v2.4.0
 

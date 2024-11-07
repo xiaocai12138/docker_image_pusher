@@ -1,2 +1,1 @@
---platform linux/arm64 dpage/pgadmin4:snapshot
-
+nginx:1.27.0

@@ -1,1 +1,1 @@
-osgeo/gdal:alpine-normal-v2.4.1
+rustdesk/rustdesk-server:latest

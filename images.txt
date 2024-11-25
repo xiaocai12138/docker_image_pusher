@@ -1,1 +1,1 @@
-13.18-bullseye linux/arm64/v8
+--platform linux/arm64/v8 13.18-bullseye

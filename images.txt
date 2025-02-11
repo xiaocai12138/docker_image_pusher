@@ -1,1 +1,1 @@
-excalidraw/excalidraw:latest
+--platform linux/arm64 bitnami/mysql:8.4.4

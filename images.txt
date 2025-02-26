@@ -1,2 +1,2 @@
---platform linux/arm64 bitnami/mysql:5.7.43
-
+wekanteam/wekan:meteor-1.4
+mongo:3.4.3

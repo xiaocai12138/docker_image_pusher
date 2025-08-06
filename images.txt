@@ -1,1 +1,1 @@
-docker.n8n.io/n8nio/n8n
+--platform linux/arm64 elasticsearch:8.10.1
